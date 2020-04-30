@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pogo
+[dinosaur](https://cdn.mos.cms.futurecdn.net/8Gcd5dym2qKWYiSqFxAfq7-650-80.jpg)
 
 You can use the [editor on GitHub](https://github.com/veeanirudh03/veeanirudh.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
