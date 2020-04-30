@@ -35,3 +35,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+# I AM ANIRUDH AND I LOVE THE SMELL OF MY OWN ARMPIT
+# I SING ALL DAY AND I PLAY TILL I'M FIT
+# I ANNOYED A DOG ONCE AND ALMOST GOT BIT
+# DON'T POKE ME, OR I'LL POP YOU LIKE A ZIT
